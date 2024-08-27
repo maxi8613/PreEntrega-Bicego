@@ -1,0 +1,100 @@
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow-x: hidden;
+}
+footer {
+    background-color: azure;
+    height: 135px;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    margin-top: auto;
+    
+  }
+  
+  .contacto {
+      display: flex;
+      flex-direction: column;
+      margin-top: 15px;
+      line-height: 15px;
+  }
+  
+  
+  .socialMedia {
+      display: flex;
+      flex-direction: column;
+      margin-top: 15px;    
+  }
+  
+  .links{
+      display: flex;
+      justify-content: space-around;
+  }
+  
+  .insta{
+      color: darkred;
+  }
+
+  .contacto h5{
+    font-size: 30px;
+  }
+  .contacto p{
+    font-size: 30px;
+    padding-top: 12px;
+   
+   
+  }
+
+  .socialMedia h5{
+    font-size: 30px;
+  }
+
+#header {
+    background-color: azure;
+}
+
+header nav{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.enlaces{
+    padding-top: 100px;
+}
+.enlaces a {
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+    padding-left: 90px;
+}
+.inicio{
+    font-size: 30px;
+}
+
+#contenedor{
+    display: flex;
+    margin: auto;
+    margin-top: 400px;
+}
+
+.card-producto{
+    width: 100vw;
+    text-align: center;
+}
+
+.card-producto img{
+    height: 500px;
+    width: 500px;
+}
+
+h3, p{
+    margin: 6px 0;
+}
+
+button{
+    background-color: azure;
+    border-radius: 5px;
+}
