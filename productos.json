@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "nombre": "Verdeada Premium",
+      "img": "./img/ym-verdeada-premium-500gr-001-c28b0658e58a41413316545203078558-480-0.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Picada Vieja",
+      "img": "./img/ym-picada-vieja-barbacua-500gr1-cfe0c68766bc4d138a16377059880090-640-0.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Amigo Matero",
+      "img": "./img/ym-amigo-matero-tradicional-500gr-001-f04551eaea892cb22416467537206462-640-0.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Fidel Tradicional",
+      "img": "./img/yerba-fidel-tradicional1-7181d3625305350f5415947638886455-1024-1024.jpeg"
+    },
+    {
+      "id": 5,
+      "nombre": "Progreso",
+      "img": "./img/progreso.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Camino Nuevo",
+      "img": "./img/camino.jpg"
+    }
+  ]
+  
